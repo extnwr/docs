@@ -105,7 +105,6 @@ Tar i mot et organisasjonsnummer som en del av URL, med obligatorisk path-parame
 **Vi anbefaler at dere legger til header `Accept` med verdi `application/vnd.brreg.reell.rettighet.v1+json;charset=UTF-8`.**  
 **Om vi kommer med en ny versjon av APIet vil dere da være sikre på at dere får den forespurte versjonen tilbake.**
 
-
 #### Validering
 
 * Forespørselen skal alltid inneholde organisasjonsnummeret det gjøres oppslag på.
